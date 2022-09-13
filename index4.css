@@ -1,0 +1,65 @@
+nav,.d1,.d2,.d3,.d4,.fon{
+    position: relative
+}
+
+nav{
+    background-color: #008b8b;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 80%;
+    z-index: 1;
+}
+
+.fon{
+    border: 3px solid black;
+    position: absolute;
+    height: 400px;
+    width: 480px;
+    top: 30px;
+    left: 100px;
+    z-index: 2;
+}
+
+.d1{
+    border: 3px solid black;
+    background-color: red;
+    position: absolute;
+    height: 70px;
+    width: 100px;
+    top: 40px;
+    left: 40px;
+    z-index: 3;
+}
+.d2{
+    border: 3px solid black;
+    background-color: blue;
+    position: absolute;
+    height: 200px;
+    width: 100px;
+    top: 150px;
+    left: 40px;
+    z-index: 3;
+}
+.d3{
+    border: 3px solid black;
+    background-color: green;
+    position: absolute;
+    height: 200px;
+    width: 230px;
+    top: 40px;
+    left: 180px;
+    z-index: 3;
+}
+.d4{
+    border: 3px solid black;
+    background-color: yellow;
+    position: absolute;
+    height: 70px;
+    width: 230px;
+    top: 280px;
+    left: 180px;
+    z-index: 3;
+}

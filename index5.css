@@ -1,0 +1,26 @@
+.container{
+    border: 3px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    position: absolute;
+    height: 220px;
+    width: 300px;
+    top: 10px;
+    left: 10px;
+    z-index: 2;
+}
+.target{
+    background-color: purple;
+    color: rgb(255, 255, 255);
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top: 0px;
+    left: 196px;
+    z-index: 2;
+}

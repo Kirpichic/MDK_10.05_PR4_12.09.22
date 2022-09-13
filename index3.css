@@ -1,0 +1,24 @@
+.d1{
+    background-color: red;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top: 100px;
+    left: 100px;
+}
+.d2{
+    background-color: blue;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top: 160px;
+    left: 160px;
+}
+.d3{
+    background-color: green;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top: 220px;
+    left: 220px;
+}
